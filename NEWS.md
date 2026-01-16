@@ -1,3 +1,7 @@
+# csdR 1.13.4
+
+Removed unnecessary bounds checking in Rcpp code, enabling vectorization and improved performance 
+
 # csdR 1.5.1
 
 Fixed segfault issue which did occur in `partial_argsort()` when the `n_elements`
